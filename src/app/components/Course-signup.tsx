@@ -1,5 +1,10 @@
-export default function CourseSignup() {
+import React from 'React'
+
+const CourseSignup = () => {
   return (
-    <div>Página de Login</div>
+    <div></div>
   )
 }
+
+
+export default CourseSignup;
